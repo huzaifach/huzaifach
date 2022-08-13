@@ -3,6 +3,11 @@
 <!--
 **huzaifach/huzaifach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[<img src="https://avatars.githubusercontent.com/u/61615316?v=4"/>][SMIT_FORM]
+[SMIT_FORM]:https://huzaifach.github.io/SMIT-CODING/
+
+### 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
